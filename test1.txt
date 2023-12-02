@@ -1,0 +1,12 @@
+test file
+text file1
+
+git status
+git commit -m "Any comment"
+
+change directory
+cd f:/git/test_dat/
+
+GIT
+Git and GitHub Tutorial for Beginners
+https://www.youtube.com/watch?v=tRZGeaHPoaw&t=1086s
