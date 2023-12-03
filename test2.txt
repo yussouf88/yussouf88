@@ -2,6 +2,12 @@ test file
 
 git config --global user.name "Yussouf"
 git config --global user.email "yussouf220@gmail.com"
+git config --global init.default branch "main"git config --global user.name 
+"Yussouf"
+git config --global user.email "yussouf220@gmail.com"
+git config --global init.default branch "main"git config --global user.name 
+"Yussouf"
+git config --global user.email "yussouf220@gmail.com"
 git config --global init.default branch "main"
 
 
